@@ -1,0 +1,29 @@
+Eu gostaria que voces fizessem um A-Star para resolver o seguinte detalhe:
+
+
+voces tem como argumento um arquivo que vai ter um numero de cidades e 2 matrizes, a 1 com o valor de distancia entre elas e a 2 com quais cidades se ligam a quais outras com as distancias reais. Exemplo:
+arquivo com os dados abaixos,
+4
+
+0 2 3 4
+2 0 5 6
+3 5 0 7
+4 6 7 0
+
+1 0    0     99
+0 1    50   80
+0 50  1     55
+0 80  55   1
+
+significa que temos 4 cidades, aonde a distancia da 1 cidade ate a 2 cidade eh 2, ate a 3 cidade eh 3, ate a 4 cidade eh 4.
+significa tambem que a distancia da 2 cidade ate a 3 cidade eh 5, ate a 4 cidade eh 6.
+significa tambem que a distancia da 3 cidade ate a 4 cidade eh 7.
+
+claro q nem sempre uma cidade tera um ligacao ate outra. e essas distancias sao as distancias em linha reta, nao quer dizer que tem esse caminho.
+Por isso embaixo da matriz de distancias de linha reta, teremos as ligacoes entre as cidades, no nosso exemplo:
+a cidade 1 somente tem ligacao com a cidade 4 e a distancia real eh 99.
+a cidade 2 tem ligacao com a cidade 3 e 4 com as distancias respectivas de 50 e 80.
+a cidade 3 tem ligacao com a cidade 2 e 4 com as distancias respectivas de 50 e 55.
+a cidade 4 tem ligacao com a cidade 2 e 3 com as distancias respectivas de 80 e 55..
+
+e no caso, dado 2 cidades, o sistema deveria retornar a menor distancia entre a 1 cidade e a 2 cidade e todo caminho que deve ser percorrido para atingir essa menor distancia como resposta.
