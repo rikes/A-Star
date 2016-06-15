@@ -23,6 +23,7 @@ namespace IA_Rotas
             astar.percorreCaminho(origem,fim);
             Console.ReadKey();
 
+
             /*Um bom exemplo é de 0 a 2
              Seria 0 - 3 - 2
              99 + 55 = 154
