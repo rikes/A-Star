@@ -1,0 +1,15 @@
+c:\users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\bin\Debug\IA-Rotas.exe.config
+c:\users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\bin\Debug\rotas.txt
+c:\users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\bin\Debug\IA-Rotas.exe
+c:\users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\bin\Debug\IA-Rotas.pdb
+c:\users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\obj\Debug\IA-Rotas.exe
+c:\users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\obj\Debug\IA-Rotas.pdb
+C:\Users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\bin\Debug\IA-Rotas.exe.CodeAnalysisLog.xml
+C:\Users\henri\documents\visual studio 2015\Projects\IA-Rotas\IA-Rotas\bin\Debug\IA-Rotas.exe.lastcodeanalysissucceeded
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\bin\Debug\IA-Rotas.exe.config
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\obj\Debug\IA-Rotas.exe
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\obj\Debug\IA-Rotas.pdb
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\bin\Debug\rotas.txt
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\bin\Debug\IA-Rotas.exe
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\bin\Debug\IA-Rotas.pdb
+C:\Users\Henrique\OneDrive\Documentos\Visual Studio 2015\Projects\A-Star\IA-Rotas\obj\Debug\IA-Rotas.csprojResolveAssemblyReference.cache
